@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafijul287
-# 🌱 I’m currently learning ...
-# 💞️ I’m looking to collaborate on ...
+- 
+-
 - 📫 skrohit22087@gmail.com
 
 <!---
